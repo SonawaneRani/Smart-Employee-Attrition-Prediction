@@ -195,49 +195,53 @@ python -m streamlit run app.py
 
 ## 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/HRLoginPage.png)
 
 ---
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/HomePage.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/EmployeeDashboard(1).png)
+
+![Dashboard](screenshots/EmployeeDashboard(2).png)
 
 ---
 
 ## 🤖 Employee Prediction
 
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/EmployeeAtrritionprediction.png)
+
+![Prediction](screenshots/EmployeeAtrritionprediction(2).png)
 
 ---
 
 ## 📂 Upload CSV
 
-![Upload CSV](screenshots/upload_csv.png)
+![Upload CSV](screenshots/Upload_csv.png)
 
 ---
 
 ## 📜 Prediction History
 
-![Prediction History](screenshots/history.png)
+![Prediction History](screenshots/PredictionHistory.png)
 
 ---
 
 ## ⚙️ Settings
 
-![Settings](screenshots/settings.png)
+![Settings](screenshots/Settings.png)
 
 ---
 
 ## ℹ️ About
 
-![About]("C:\Users\HP\OneDrive\Desktop\New folder\About.png")
+![About](screenshots/About.png")
 
 # Future Enhancements
 
