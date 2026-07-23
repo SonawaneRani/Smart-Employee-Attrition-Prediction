@@ -217,7 +217,7 @@ python -m streamlit run app.py
 
 ![Employee Atrrition prediction](screenshots/EmployeeAtrritionprediction.png)
 
-![Employee Atrrition prediction(2)](screenshots/EmployeeAtrritionprediction(2).png)
+Screenshots/Employee Attrition Prediction (2).png
 
 ---
 
