@@ -191,58 +191,65 @@ pip install -r requirements.txt
 ### Run the Application
 python -m streamlit run app.py
 
-#  Project Screenshots
+# 📸 Project Screenshots
 
 ## 🔐 Login Page
 
-![HR Login Page](Screenshots/HR Login Page.png)
+[![HR Login Page](Screenshots/HR%20Login%20Page.png)](Screenshots/HR%20Login%20Page.png)
 
 ---
 
 ## 🏠 Home Page
 
-![Home Page](Screenshots/Home Page.png)
+[![Home Page](Screenshots/Home%20Page.png)](Screenshots/Home%20Page.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Employee Dashboard(1).](Screenshots/Employee Dashboard(1).png)
+### Dashboard 1
 
-![Employee Dashboard(2](Screenshots/Employee Dashboard(2).png)
+[![Employee Dashboard 1](Screenshots/Employee%20Dashboard%20(1).png)](Screenshots/Employee%20Dashboard%20(1).png)
+
+### Dashboard 2
+
+[![Employee Dashboard 2](Screenshots/Employee%20Dashboard%20(2).png)](Screenshots/Employee%20Dashboard%20(2).png)
 
 ---
 
 ## 🤖 Employee Prediction
 
-![Employee Attrition Prediction](Screenshots/Employee Atrrition Prediction.png)
+### Prediction 1
 
-![Employee Attrition Prediction 2](Screenshots/Employee Attrition Prediction(2))
+[![Employee Attrition Prediction](Screenshots/Employee%20Attrition%20Prediction.png)](Screenshots/Employee%20Attrition%20Prediction.png)
+
+### Prediction 2
+
+[![Employee Attrition Prediction 2](Screenshots/Employee%20Attrition%20Prediction%20(2).png)](Screenshots/Employee%20Attrition%20Prediction%20(2).png)
 
 ---
 
 ## 📂 Upload CSV
 
-![Upload csv](Screenshots/Upload csv.png)
+[![Upload CSV](Screenshots/Upload%20CSV.png)](Screenshots/Upload%20CSV.png)
 
 ---
 
 ## 📜 Prediction History
 
-![Prediction History](Screenshots/Prediction History.png)
+[![Prediction History](Screenshots/Prediction%20History.png)](Screenshots/Prediction%20History.png)
 
 ---
 
 ## ⚙️ Settings
 
-![Settings](Screenshots/Settings.png)
+[![Settings](Screenshots/Setting.png)](Screenshots/Setting.png)
 
 ---
 
 ## ℹ️ About
 
-![About](Screenshots/About.png)
-
+[![About](Screenshots/About.png)](Screenshots/About.png)
 # Future Enhancements
 
 - Admin Dashboard
