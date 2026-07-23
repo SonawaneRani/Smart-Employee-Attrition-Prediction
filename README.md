@@ -195,41 +195,41 @@ python -m streamlit run app.py
 
 ## 🔐 Login Page
 
-![HR Login Page](Screenshots/HRLoginPage.png)
+![HR Login Page](Screenshots/HR Login Page.png)
 
 ---
 
 ## 🏠 Home Page
 
-![Home Page](Screenshots/HomePage.png)
+![Home Page](Screenshots/Home Page.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Employee Dashboard(1).](Screenshots/EmployeeDashboard(1).png)
+![Employee Dashboard(1).](Screenshots/Employee Dashboard(1).png)
 
-![Employee Dashboard(2](Screenshots/EmployeeDashboard(2).png)
+![Employee Dashboard(2](Screenshots/Employee Dashboard(2).png)
 
 ---
 
 ## 🤖 Employee Prediction
 
-![Employee Attrition Prediction](Screenshots/EmployeeAtrritionprediction.png)
+![Employee Attrition Prediction](Screenshots/Employee Atrrition Prediction.png)
 
-![Employee Attrition Prediction 2](Screenshots/EmployeeAttritionPrediction(2))
+![Employee Attrition Prediction 2](Screenshots/Employee Attrition Prediction(2))
 
 ---
 
 ## 📂 Upload CSV
 
-![Upload CSV](Screenshots/Upload_csv.png)
+![Upload csv](Screenshots/Upload csv.png)
 
 ---
 
 ## 📜 Prediction History
 
-![Prediction History](Screenshots/PredictionHistory.png)
+![Prediction History](Screenshots/Prediction History.png)
 
 ---
 
@@ -241,7 +241,7 @@ python -m streamlit run app.py
 
 ## ℹ️ About
 
-![About](Screenshots/about.png)
+![About](Screenshots/About.png)
 
 # Future Enhancements
 
