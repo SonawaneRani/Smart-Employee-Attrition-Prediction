@@ -241,7 +241,7 @@ python -m streamlit run app.py
 
 ## ℹ️ About
 
-![About](screenshots/About.png")
+![About](screenshots/about.png")
 
 # Future Enhancements
 
