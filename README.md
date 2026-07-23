@@ -195,7 +195,7 @@ python -m streamlit run app.py
 
 ## 🔐 Login Page
 
-![Login Page](screenshots/HRLoginPage.png)
+![HR Login Page](screenshots/HRLoginPage.png)
 
 ---
 
@@ -207,23 +207,23 @@ python -m streamlit run app.py
 
 ## 📊 Dashboard
 
-![Dashboard](screenshots/EmployeeDashboard(1).png)
+![Employee Dashboard(1).](screenshots/EmployeeDashboard(1).png)
 
-![Dashboard](screenshots/EmployeeDashboard(2).png)
+![Employee Dashboard(2](screenshots/EmployeeDashboard(2).png)
 
 ---
 
 ## 🤖 Employee Prediction
 
-![Prediction](screenshots/EmployeeAtrritionprediction.png)
+![Employee Atrrition prediction](screenshots/EmployeeAtrritionprediction.png)
 
-![Prediction](screenshots/EmployeeAtrritionprediction(2).png)
+![Employee Atrrition prediction(2)](screenshots/EmployeeAtrritionprediction(2).png)
 
 ---
 
 ## 📂 Upload CSV
 
-![Upload CSV](screenshots/Upload_csv.png)
+![Upload_csv](screenshots/Upload_csv.png)
 
 ---
 
@@ -241,7 +241,7 @@ python -m streamlit run app.py
 
 ## ℹ️ About
 
-![About](screenshots/about.png")
+![about](screenshots/about.png")
 
 # Future Enhancements
 
