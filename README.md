@@ -191,16 +191,53 @@ pip install -r requirements.txt
 ### Run the Application
 python -m streamlit run app.py
 
-#  Application Modules
+#  Project Screenshots
 
-- 🔐 Login
-- 🏠 Home
-- 📊 Dashboard
-- 🤖 Prediction
-- 📂 Upload CSV
-- 📜 Prediction History
-- ⚙️ Settings
-- ℹ️ About
+## 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+## 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 🤖 Employee Prediction
+
+![Prediction](screenshots/prediction.png)
+
+---
+
+## 📂 Upload CSV
+
+![Upload CSV](screenshots/upload_csv.png)
+
+---
+
+## 📜 Prediction History
+
+![Prediction History](screenshots/history.png)
+
+---
+
+## ⚙️ Settings
+
+![Settings](screenshots/settings.png)
+
+---
+
+## ℹ️ About
+
+![About]("C:\Users\HP\OneDrive\Desktop\New folder\About.png")
 
 # Future Enhancements
 
