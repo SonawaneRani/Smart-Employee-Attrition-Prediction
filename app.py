@@ -52,7 +52,10 @@ if not st.session_state.login:
 
     if login:
 
-        if username == "Rani" and password == "rani123":
+        if (
+    username == st.secrets["USERNAME"]
+    and password == st.secrets["PASSWORD"]
+):
 
             st.session_state.login = True
             st.rerun()
