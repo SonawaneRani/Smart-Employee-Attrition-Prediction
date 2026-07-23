@@ -187,6 +187,9 @@ cd Smart-Employee-Attrition-Prediction
 ### Install Required Libraries
 pip install -r requirements.txt
 
+##  Live Demo
+
+🔗 https://<your-app-name>.streamlit.app
 
 ### Run the Application
 python -m streamlit run app.py
